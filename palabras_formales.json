@@ -1,0 +1,43 @@
+{
+  "atentados_directos": [
+    "atentado", "ataque", "ataque terrorista", "explosión", "bomba", "tiroteo",
+    "asalto", "emboscada", "secuestro", "coche bomba", "artefacto explosivo",
+    "paquete sospechoso", "incidente", "masacre", "matanza", "sabotaje",
+    "amenaza", "amenaza de bomba", "disturbio", "altercado", "acto terrorista"
+  ],
+  "armas_y_mecanismos": [
+    "pistola", "rifle", "ametralladora", "kalashnikov", "fusil", "granada",
+    "dinamita", "molotov", "misil", "cuchillo", "machete", "explosivo",
+    "detonador", "carga explosiva", "detonación"
+  ],
+  "acciones_relacionadas": [
+    "detonar", "disparar", "asesinar", "matar", "emboscar", "atacar",
+    "ametrallar", "sabotear", "incendiar", "secuestrar", "amenazar",
+    "ejecutar", "aniquilar", "embestir", "estallar"
+  ],
+  "lugares_objetivo": [
+    "aeropuerto", "estación", "terminal", "metro", "tren", "autobús",
+    "mercado", "embajada", "consulado", "sede", "escuela", "universidad",
+    "sinagoga", "iglesia", "mezquita", "hospital", "centro comercial"
+  ],
+  "responsables_o_grupos": [
+    "terrorista", "extremista", "yihadista", "insurgente", "paramilitar",
+    "célula terrorista", "grupo armado", "organización terrorista", "milicia",
+    "kamikaze", "mártir", "francotirador", "comando", "unidad antiterrorista"
+  ],
+  "otros_terminos": [
+    "alerta roja", "evacuación", "pánico", "heridos", "muertos", "víctimas",
+    "amenaza inminente", "seguridad nacional", "estado de emergencia",
+    "toque de queda", "zona de peligro", "saldo de víctimas",
+    "número de muertos", "número de heridos", "zona acordonada",
+    "protocolo de emergencia", "estado de alerta", "investigación en curso",
+    "despliegue de fuerzas", "hallazgo de explosivos"
+  ],
+  "tacticas_y_conceptos_militares": [
+    "intervención militar", "convoy militar", "patrulla armada",
+    "fuerzas especiales", "operación táctica", "fuerzas de choque",
+    "operativo de seguridad", "neutralizar", "abatir", "captura",
+    "toma de rehenes", "conspiración", "golpe de estado", "insurgencia armada",
+    "linchamiento", "motín"
+  ]
+}
